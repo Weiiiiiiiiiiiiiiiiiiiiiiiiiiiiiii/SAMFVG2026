@@ -1,5 +1,8 @@
 # SAMFVG2026
 # Git & Wwise Collaboration Assignment
+# Git & Wwise Collaboration Assignment
+
+**Sound Museum Project**
 
 ---
 
@@ -474,8 +477,3 @@ Your assignment is complete when:
 - **Communicate** - If you're stuck, ask for help!
 - **Be creative** - This is your chance to showcase your sound design skills
 - **Have fun** - You're building a collaborative sound art installation!
-
-- [Unity Learn](https://learn.unity.com)
-- [Audacity (free audio editor)](https://www.audacityteam.org)
-
-**Questions?** Ask in class, on Discord/Slack, or email the instructor. Collaboration is part of learning - don't struggle alone!
