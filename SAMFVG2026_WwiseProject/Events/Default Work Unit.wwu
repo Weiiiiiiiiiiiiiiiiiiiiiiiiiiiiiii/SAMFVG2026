@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A0E5A53B-82B2-498F-9A2F-F708E320DE44}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A0E5A53B-82B2-498F-9A2F-F708E320DE44}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Alley" ID="{61301959-C950-4319-B5E9-38879CE47FD2}" ShortID="603041282">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Cortinas-Rios" ID="{310D4ED7-224C-4ADE-90BF-81340E89F646}" ShortID="824292591">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Davis" ID="{36AB9AFC-9A64-4A35-8485-25E82191C16B}" ShortID="888630602">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="3"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Earle-Fuller" ID="{CDB999F3-FE8F-42EC-9CD4-2B2B6B5EE39F}" ShortID="294488078">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Ingle" ID="{A1B1EBDC-2AB3-49BB-91F3-CFA2D14E9DAF}" ShortID="739113800">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="5"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Lipka" ID="{1A141D01-36F3-4D89-AFAF-1CA5CEA3E882}" ShortID="890427744">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="6"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="McKinsey" ID="{04973566-3200-4124-8D2D-A0B463A109DA}" ShortID="995592288">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="7"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Merkel" ID="{D1CC3D22-44D9-4E31-8F00-EDE314A11645}" ShortID="567852810">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="boom" ID="{76596C8C-E65C-459D-A195-92F0026FE9B8}">
+							<ChildrenList>
+								<Action Name="" ID="{63FA2E17-0D76-44C6-921B-AE2D54159340}" ShortID="448232993">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="boom" ID="{913A33B0-D7AE-4A49-B71F-A508D2AF29EB}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Nissen" ID="{10DA0FFE-D262-422A-A787-C264599B43FA}" ShortID="843166284">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="9"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Ramirez" ID="{F129C269-93BA-4B86-ACC4-D4DE2B8C8862}" ShortID="44054277">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Shinozawa" ID="{D79A293E-8348-40F3-B8A9-5921A19D5F8B}" ShortID="325024189">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="11"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Verette" ID="{B1418DC8-6FA1-4496-B21E-C5D8966DDA83}" ShortID="772867791">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="12"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Willock" ID="{A943C4C8-C4E3-4A5C-9155-257301768559}" ShortID="915946272">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="13"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

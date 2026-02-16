@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Default Work Unit" ID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Merkel" ID="{966E2C34-5BF7-4CCF-98DB-B8851568FA35}" ShortID="856754760">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Sound Name="boom" ID="{913A33B0-D7AE-4A49-B71F-A508D2AF29EB}" ShortID="541678017">
+							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ValueList>
+										<Value>730</Value>
+									</ValueList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-4</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{962F57F0-C5BB-4A96-9E3B-AF21876C3499}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AA45109-3BB3-4356-A12B-3E3680712460}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Bluezone_BC0294_modern_cinematic_impact_percussion_009" ID="{EACBA3FE-C636-45F7-BA85-566AD96FE421}">
+									<PropertyList>
+										<Property Name="FadeOutDuration" Type="Real64" Value="0.611024276133116"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Bluezone_BC0294_modern_cinematic_impact_percussion_009.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="459434770"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Bluezone_BC0294_modern_cinematic_impact_percussion_009" ID="{EACBA3FE-C636-45F7-BA85-566AD96FE421}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Alley" ID="{67C99114-C771-4B35-B278-B070D45245BB}" ShortID="495599546">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Cortina-Rios" ID="{5E245892-6C6A-4714-82FA-5B789F51C202}" ShortID="685124514">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="2"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Davis" ID="{EF40B748-965A-4CAD-8469-EEC17A511120}" ShortID="863453249">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="3"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Earle-Fuller" ID="{F062317D-BE2A-4DE7-AEB7-C628EDEC85B1}" ShortID="87455902">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Ingle" ID="{B9731EC1-FFF9-4891-B92D-262E11EFCCB1}" ShortID="904683096">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="5"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Lipka" ID="{12AF4153-DEC0-4022-95A3-A90769B7CB6B}" ShortID="551167013">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="6"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="McKinsey" ID="{6BDFA48C-3B6D-46FA-9AA2-648BDFB754E3}" ShortID="679171200">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="7"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Nissen" ID="{E8B56B17-F603-4A42-BF76-4234748ABF46}" ShortID="887887138">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="9"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Ramirez" ID="{60230578-4D5B-4BFA-9CFD-A871B1E6A352}" ShortID="697791619">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Shinozawa" ID="{3B2B8ADA-6E2B-4AA7-8B85-C49C3D678C81}" ShortID="12373526">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="11"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Verette" ID="{303B2CA4-FB98-49C1-8C33-21451087774E}" ShortID="497996161">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="12"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+				<Folder Name="Willock" ID="{1A979BF5-B47A-447F-83E1-ED7EFF1A7BCA}" ShortID="349937940">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="13"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>
